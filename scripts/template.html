@@ -1,0 +1,27 @@
+<html><head><style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1350px;font-family:'Inter';background:%(bg)s;color:#fff;position:relative;overflow:hidden}
+.top{position:absolute;top:70px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.brand{font-family:'Inter Display';font-weight:800;font-size:34px;letter-spacing:1px}
+.brand span{color:%(acc)s}
+.tag{font-size:24px;font-weight:600;border:2px solid rgba(255,255,255,.5);border-radius:40px;padding:10px 24px}
+.circle{position:absolute;right:-220px;top:180px;width:720px;height:720px;border-radius:50%%;background:%(acc)s;opacity:.16}
+.circle2{position:absolute;left:-160px;bottom:-200px;width:520px;height:520px;border-radius:50%%;border:60px solid rgba(255,255,255,.07)}
+.icon{position:absolute;top:230px;left:80px;font-size:120px}
+.kicker{position:absolute;top:400px;left:80px;font-size:30px;font-weight:700;color:%(acc)s;letter-spacing:4px;text-transform:uppercase}
+h1{position:absolute;top:460px;left:80px;right:90px;font-family:'Inter Display';font-weight:800;font-size:92px;line-height:1.02}
+ul{position:absolute;top:%(listtop)spx;left:80px;right:80px;list-style:none}
+li{font-size:38px;font-weight:500;margin-bottom:22px;display:flex;gap:20px;align-items:center}
+li b{display:inline-flex;width:46px;height:46px;border-radius:50%%;background:%(acc)s;color:%(bg)s;font-size:28px;justify-content:center;align-items:center;flex-shrink:0}
+.foot{position:absolute;bottom:70px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:flex-end;border-top:2px solid rgba(255,255,255,.25);padding-top:30px}
+.cta{font-size:36px;font-weight:700}
+.area{font-size:24px;opacity:.8;text-align:right}
+</style></head><body>
+<div class="circle"></div><div class="circle2"></div>
+<div class="top"><div class="brand">ETNA<span>SOLUTION</span>clean</div><div class="tag">%(tag)s</div></div>
+<div class="icon">%(icon)s</div>
+<div class="kicker">%(kicker)s</div>
+<h1>%(title)s</h1>
+<ul>%(items)s</ul>
+<div class="foot"><div class="cta">Preventivo gratuito<br>Scrivici in DM</div><div class="area">Catania<br>e comuni etnei</div></div>
+</body></html>
