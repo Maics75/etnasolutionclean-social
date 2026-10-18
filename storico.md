@@ -5,3 +5,6 @@
 | 2026-10-14 | Uffici | immagine singola | Un ufficio pulito lavora meglio. ✨ |
 | 2026-10-16 | Ambulatori medici (superfici più toccate, sanificare vs pulire) | carosello | Qual è il punto più contaminato di un ambulatorio? Non è il pavimento. |
 | 2026-10-19 | Negozi (vetrina, pavimenti, POS, camerini) | carosello | Il cliente decide se entrare prima ancora di varcare la porta. |
+| 2026-10-21 | Pavimenti in marmo (4 errori: acidi, abrasivi, troppo detersivo, macchie) | carosello | Il limone sgrassa tutto… tranne quello che non dovrebbe toccare: il tuo pavimento in marmo. |
+| 2026-10-23 | Hotel e B&B (pulizia di fondo in bassa stagione) | carosello | Quando l'hotel si svuota, il lavoro più importante per la prossima stagione è appena cominciato. |
+| 2026-10-26 | Palestre (impugnature, tappetini, spogliatoi, aria) | carosello | In palestra il sudore si asciuga in pochi minuti. Quello che lascia sulle superfici, invece, resta. |
