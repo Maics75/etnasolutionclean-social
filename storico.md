@@ -8,3 +8,6 @@
 | 2026-10-21 | Pavimenti in marmo (4 errori: acidi, abrasivi, troppo detersivo, macchie) | carosello | Il limone sgrassa tutto… tranne quello che non dovrebbe toccare: il tuo pavimento in marmo. |
 | 2026-10-23 | Hotel e B&B (pulizia di fondo in bassa stagione) | carosello | Quando l'hotel si svuota, il lavoro più importante per la prossima stagione è appena cominciato. |
 | 2026-10-26 | Palestre (impugnature, tappetini, spogliatoi, aria) | carosello | In palestra il sudore si asciuga in pochi minuti. Quello che lascia sulle superfici, invece, resta. |
+| 2026-10-28 | Condomini (androne, scale e corrimano, ascensore, aree esterne) | carosello | L'androne è il biglietto da visita del palazzo: chi entra giudica l'intero stabile da lì. |
+| 2026-10-30 | Derattizzazione e disinfestazione in autunno (fessure, rifiuti, cantine, scarichi) | carosello | Quando fuori comincia a fare freddo, non sei l'unico a cercare un posto caldo e asciutto. |
+| 2026-11-02 | Vetrate e finestre dopo la pioggia (cenere dell'Etna, telai, momento giusto, attrezzi) | carosello | Dopo la pioggia i vetri sembrano più sporchi di prima? Non è un'impressione. |
