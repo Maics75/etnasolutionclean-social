@@ -11,3 +11,6 @@
 | 2026-10-28 | Condomini (androne, scale e corrimano, ascensore, aree esterne) | carosello | L'androne è il biglietto da visita del palazzo: chi entra giudica l'intero stabile da lì. |
 | 2026-10-30 | Derattizzazione e disinfestazione in autunno (fessure, rifiuti, cantine, scarichi) | carosello | Quando fuori comincia a fare freddo, non sei l'unico a cercare un posto caldo e asciutto. |
 | 2026-11-02 | Vetrate e finestre dopo la pioggia (cenere dell'Etna, telai, momento giusto, attrezzi) | carosello | Dopo la pioggia i vetri sembrano più sporchi di prima? Non è un'impressione. |
+| 2026-11-04 | Pulizie fine cantiere (polvere fine, calce e silicone, vetri e guide, pavimenti) | carosello | I lavori sono finiti, gli operai sono andati via… ma la casa non è ancora pronta da vivere. |
+| 2026-11-06 | Parquet (4 errori: troppa acqua, vapore, prodotti sbagliati, sabbia) | carosello | Il peggior nemico del tuo parquet? Non sono i graffi del cane né le sedie trascinate: è il secchio pieno d'acqua. |
+| 2026-11-09 | Pulizie in quota e su fune (facciate, vetrate alte, grondaie, sicurezza) | carosello | Hai mai guardato in alto e pensato: «Chissà da quanto tempo nessuno pulisce lassù?» |
